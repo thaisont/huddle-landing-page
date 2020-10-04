@@ -1,0 +1,20 @@
+.header-img {
+  top: -8rem;
+}
+
+.footer-logo {
+  top: -5rem;
+}
+
+.section-bottom-description {
+  top: -10rem;
+  right: 20rem;
+}
+
+.section-bottom-description {
+  transform: translateY(80px);
+}
+
+.social-media-icon {
+  height: 50px;
+}
