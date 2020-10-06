@@ -3,7 +3,7 @@
 }
 
 .footer-logo {
-  top: -5rem;
+  top: -3rem;
 }
 
 .section-bottom-description {
@@ -12,9 +12,15 @@
 }
 
 .section-bottom-description {
-  transform: translateY(80px);
+  transform: translateY(60px);
 }
 
 .social-media-icon {
   height: 50px;
+}
+
+.container {
+  max-width: 110px;
+  padding: 0;
+  margin: 0;
 }
