@@ -19,8 +19,6 @@
   height: 50px;
 }
 
-.container {
-  max-width: 110px;
-  padding: 0;
-  margin: 0;
+.col-location-text {
+  max-width: 350px;
 }
